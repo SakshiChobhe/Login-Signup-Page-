@@ -53,5 +53,6 @@ npm install
 npm start
 
 
+i have just added the src folder and backend's server.py file so make a new react app and then import this files otherwise it'll not run
 
 
