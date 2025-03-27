@@ -1,0 +1,54 @@
+.form-container {
+    width: 500px;
+    margin: 100px auto;
+    margin-top: 180px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    font: bolder;
+    font-family: 'Times New Roman';
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  input {
+    width: 470px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 490px;
+    padding: 10px;
+    background-color: #4ee0d3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Adds a gap between the buttons */
+  }
+  
+  
+  button:hover {
+    background-color: #06779d;
+  }
+  
+  .password-input-container {
+    position: relative;
+  }
+  
+  .eye-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
